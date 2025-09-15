@@ -58,6 +58,3 @@ We compared four models:
 - **Policy:** Focus resources on higher-risk stop situations (e.g., weapon-related) where arrests are more likely.  
 - **Ethics:** Continue avoiding sensitive demographic features in predictive modeling.  
 - **Future Work:** Explore methods to further improve recall (catching more true arrests) such as adjusting thresholds or applying cost-sensitive learning.  
-
----
-👤 *Prepared as part of a school project on data analysis and machine learning.*
